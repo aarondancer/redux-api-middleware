@@ -1,6 +1,6 @@
 {
   "name": "redux-api-middleware-everywhere",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Redux middleware for calling an API. Works on all platforms.",
   "main": "lib/index.js",
   "scripts": {
